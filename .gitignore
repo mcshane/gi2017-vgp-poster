@@ -1,0 +1,13 @@
+a0header.ps
+*.bst
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.ttt
+*.fff
+.DS_Store
